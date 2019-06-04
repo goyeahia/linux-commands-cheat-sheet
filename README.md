@@ -10,4 +10,7 @@ It's pretty common for me to forget nix commands so i tried to create a list for
 - iotop -> Input/Output device monitoring tool
 - lspci -> Lists of PCI devices (Really useful when you are installing new driver)
 - lsusb -> Shows list of connected USB devices
-- 
+- lshw -> Shows detailed information of harware configuration in the machine
+- lshw -> Another hardware probing utility
+- lsblk -? Display the block devices
+
