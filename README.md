@@ -1,4 +1,4 @@
-## A List of Useful Nix Commands
+## A List of Useful Unix/Linux Commands
 It's pretty common for me to forget nix commands so i tried to create a list for my personal use of nix command. Feel free to contribute and use it for yourself. <br><br>
 ### Hardware Information
 - dmesg -> DispDays information of kernel ring buffer
